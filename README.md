@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Ever !
 - 👀 I’m interested in   web & mobile technologies and languages
 - 🌱 I’m currently learning   Quichwa  
-- 💞️ I’m looking to collaborate on   social projects or something that can help spread the Quichwa language and other native languages of South America
+- 💞️ I’m looking to collaborate on   social projects or something that can help spread the Quichwa language and other native languages of Peru
 - 📫 Drop me a line to hello@davila.uno
 
 <!---
